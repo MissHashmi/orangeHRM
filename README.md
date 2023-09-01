@@ -34,12 +34,13 @@ pip install pytest==7.4.0
 ```
 
 ```commandline
- pip install selenium==4.11.2
+pip install selenium==4.11.2
 ```
 
 ## Running the Tests
 
 To run all tests, navigate to the root and run
     
-    python main.py
-
+```commandline
+python main.py
+```
