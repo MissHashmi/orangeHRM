@@ -29,8 +29,13 @@ The tests are organized into two categories: admin-related tests and login-relat
 - selenium
 
 
-    pip install pytest==7.4.0
-    pip install selenium==4.11.2
+```commandline
+pip install pytest==7.4.0
+```
+
+```commandline
+ pip install selenium==4.11.2
+```
 
 ## Running the Tests
 
